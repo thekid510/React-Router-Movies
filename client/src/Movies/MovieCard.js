@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function MovieCard (movies) {
+export default function MovieCard (props) {
   return;
 }
